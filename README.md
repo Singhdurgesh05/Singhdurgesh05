@@ -3,9 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Durgesh Singh</h1>
-<h3 align="center">🚀 Full Stack Developer | Building Agentic AI Systems & Scalable Backends</h3>
-
----
+<h3 align="center">🚀 Full Stack Developer | DSA Enthusiast (400+ Problems Solved) | Building Agentic AI Systems & Scalable Backends</h3>
 
 ## 🧠 About Me  
 
@@ -13,9 +11,8 @@
 - 🌱 Learning **System Design, Scalable Backends & Agentic AI Systems**  
 - 👯 Open to collaborate on **AI + Full Stack Projects**  
 - 🤝 Exploring **Multi-Agent Architectures & AI Workflows**  
+- 🧩 Solved **400+ DSA problems**, strengthening problem-solving and algorithmic thinking  
 - ⚡ I build real-world products fast  
-
----
 
 ## 🚀 Featured Project  
 
